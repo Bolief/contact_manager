@@ -13,4 +13,3 @@ try {
     include __DIR__ . '/../views/errors/database_error.php';
     exit();
 }
-?>
